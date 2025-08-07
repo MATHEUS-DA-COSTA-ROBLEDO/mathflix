@@ -1,0 +1,41 @@
+body{
+    
+background-color: rgb(238, 92, 126);
+color:rgb(42, 24, 20);
+font-family:
+"Edu NSW ACT Foundation", cursive;
+}
+
+header{
+    
+font-size: 50px;
+border-bottom:double 5px rgb(29, 15, 22);
+padding: 50px;
+text-align: center;
+}
+
+h1{
+
+font-size: 30px;
+}
+
+p{
+    
+font-size: 20px;
+}
+
+.chamada{
+    
+background-color: rgb(195, 236, 238);
+display: flex;
+justify-content: center;
+}
+.chamada-texto { margin-right: 30px; }
+
+img{ width: 300px;
+height: 200px;
+}
+.outrasrecomendacoes{ overflow-x: auto;
+display: flex;
+gap: 5px;
+}
