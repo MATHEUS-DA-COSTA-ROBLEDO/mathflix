@@ -1,0 +1,51 @@
+body {
+    margin: 0px;
+    background: black;
+    color: white;
+    font-family: "Mozilla Headline", sans-serif;
+    margin-bottom: 300px;
+}
+
+header {
+    border-bottom: solid 3px blue;
+    padding: 20px;
+    font-size: 30px;
+}
+
+.chamada {
+    padding-bottom: 80 px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 5%;
+}
+
+h1 {
+    font-size: 43px;
+}
+
+p {
+    font-size: 21, 5px;
+}
+
+h2 {
+    font-size: 30px;
+    margin: 20px;
+}
+
+a {
+    height: 100px;
+}
+
+.categoria-videos {
+    display: flex;
+    gap: 20px;
+}
+
+.categoria {
+    padding-left: 20ps;
+    padding-right: 20px;
+}
